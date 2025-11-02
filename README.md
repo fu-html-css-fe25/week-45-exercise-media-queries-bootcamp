@@ -2,7 +2,7 @@
 
 Jag har kodat upp alla alla filer så att de antingen matchar mobilvarianten, eller desktopvarianten. Er uppgift är nu att lägga till mediaquerys för att sidorna skall bli responsiva: de skall alltså gå att titta på både på stor och liten skärmstorlek. Använd de skills som ni hittils har införskaffat er och justera de värden som krävs för att sidorna skall bli responsiva.
 
-Vissa exempel innehåller ett "facit" som kommenterats bort och lagts längre ner som stöd för hur uppguften skulle kunna lösas.
+Vissa exempel innehåller ett lösningsförslag som kommenterats bort och lagts längre ner som stöd för hur uppgiften skulle kunna lösas.
 
 ## Övning 1
 
